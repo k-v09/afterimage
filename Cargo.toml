@@ -1,0 +1,8 @@
+[package]
+name = "afterimage"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+sdl2 = "0.35"
+byteorder = "1.4"
